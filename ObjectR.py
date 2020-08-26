@@ -5,7 +5,7 @@ import os
 import PIL # pip install Pillow
 from IPython.display import display, Image
 
-GOOGLE_API_KEY = 'AIzaSyAcLCy8_JBlvnVtI65HztU6ZLbMFKPUriw'
+GOOGLE_API_KEY = 'your google api key'
 
 # pip install google-api-python-client
 from googleapiclient.discovery import build
